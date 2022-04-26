@@ -16,7 +16,11 @@ Features:
 
 ## Controls
 K - Noclip
+
 SPACE/CTRL - Ascend/Descend while noclip enabled
+
 LSHIFT - Double speed while noclip enabled
+
 F5 - Quick save
+
 F6 - Quick load
